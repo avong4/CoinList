@@ -6,6 +6,6 @@ Displays list of coins on the main page, with 10 per page. Clicking an item on t
 
 #### Tools:
 
--React
--CryptoCompare API
--HighCharts JS
+* React
+* CryptoCompare API
+* HighCharts JS
