@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/avong4/CoinList/static/css/main.dd16803c.chunk.css",
-    "main.js": "/avong4/CoinList/static/js/main.a2d81b6d.chunk.js",
-    "main.js.map": "/avong4/CoinList/static/js/main.a2d81b6d.chunk.js.map",
-    "runtime~main.js": "/avong4/CoinList/static/js/runtime~main.25199e12.js",
-    "runtime~main.js.map": "/avong4/CoinList/static/js/runtime~main.25199e12.js.map",
-    "static/js/2.2bd70950.chunk.js": "/avong4/CoinList/static/js/2.2bd70950.chunk.js",
-    "static/js/2.2bd70950.chunk.js.map": "/avong4/CoinList/static/js/2.2bd70950.chunk.js.map",
-    "index.html": "/avong4/CoinList/index.html",
-    "precache-manifest.371e4f34c048949015cf920d63764c5a.js": "/avong4/CoinList/precache-manifest.371e4f34c048949015cf920d63764c5a.js",
-    "service-worker.js": "/avong4/CoinList/service-worker.js",
-    "static/css/main.dd16803c.chunk.css.map": "/avong4/CoinList/static/css/main.dd16803c.chunk.css.map"
+    "main.css": "/CoinList/static/css/main.dd16803c.chunk.css",
+    "main.js": "/CoinList/static/js/main.a2d81b6d.chunk.js",
+    "main.js.map": "/CoinList/static/js/main.a2d81b6d.chunk.js.map",
+    "runtime~main.js": "/CoinList/static/js/runtime~main.494aa7fb.js",
+    "runtime~main.js.map": "/CoinList/static/js/runtime~main.494aa7fb.js.map",
+    "static/js/2.2bd70950.chunk.js": "/CoinList/static/js/2.2bd70950.chunk.js",
+    "static/js/2.2bd70950.chunk.js.map": "/CoinList/static/js/2.2bd70950.chunk.js.map",
+    "index.html": "/CoinList/index.html",
+    "precache-manifest.a1ec9c1664739bf32051642a32651f50.js": "/CoinList/precache-manifest.a1ec9c1664739bf32051642a32651f50.js",
+    "service-worker.js": "/CoinList/service-worker.js",
+    "static/css/main.dd16803c.chunk.css.map": "/CoinList/static/css/main.dd16803c.chunk.css.map"
   }
 }
