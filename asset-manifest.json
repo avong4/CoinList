@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.dd16803c.chunk.css",
-    "main.js": "/static/js/main.a2d81b6d.chunk.js",
-    "main.js.map": "/static/js/main.a2d81b6d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.2bd70950.chunk.js": "/static/js/2.2bd70950.chunk.js",
-    "static/js/2.2bd70950.chunk.js.map": "/static/js/2.2bd70950.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c8fcc1ee0e864608392067eecd8bb05f.js": "/precache-manifest.c8fcc1ee0e864608392067eecd8bb05f.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.dd16803c.chunk.css.map": "/static/css/main.dd16803c.chunk.css.map"
+    "main.css": "/avong4/CoinList/static/css/main.dd16803c.chunk.css",
+    "main.js": "/avong4/CoinList/static/js/main.a2d81b6d.chunk.js",
+    "main.js.map": "/avong4/CoinList/static/js/main.a2d81b6d.chunk.js.map",
+    "runtime~main.js": "/avong4/CoinList/static/js/runtime~main.25199e12.js",
+    "runtime~main.js.map": "/avong4/CoinList/static/js/runtime~main.25199e12.js.map",
+    "static/js/2.2bd70950.chunk.js": "/avong4/CoinList/static/js/2.2bd70950.chunk.js",
+    "static/js/2.2bd70950.chunk.js.map": "/avong4/CoinList/static/js/2.2bd70950.chunk.js.map",
+    "index.html": "/avong4/CoinList/index.html",
+    "precache-manifest.371e4f34c048949015cf920d63764c5a.js": "/avong4/CoinList/precache-manifest.371e4f34c048949015cf920d63764c5a.js",
+    "service-worker.js": "/avong4/CoinList/service-worker.js",
+    "static/css/main.dd16803c.chunk.css.map": "/avong4/CoinList/static/css/main.dd16803c.chunk.css.map"
   }
 }
