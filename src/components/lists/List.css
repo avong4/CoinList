@@ -1,0 +1,56 @@
+
+  
+  .Table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 80%;
+    margin-left:auto; 
+    margin-right:auto;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 12px 0 hsla(0, 0%, 0%, 0.2);
+  }
+  
+  .Table-head {
+    background-color: #FFF;
+  }
+  
+  .Table-head tr th {
+    color: #A4A9D7;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    height: 5vh;
+  }
+  
+  .Table-body {
+    text-align: left;
+    background-color: #FFF;
+  }
+  
+  .Table-body tr td{
+    padding-top: 1.5%;
+    padding-bottom: 1.5%;
+    justify-content: center;
+    text-align: center;
+    border-bottom: 2px solid #FFF;
+    color: #999;
+    cursor: pointer;
+  }
+  
+  .Table-rank {
+    color: #999;
+    font-size: 16px;
+  }
+  
+  .Table-dollar {
+    color: #999;
+    font-size: 14px;
+    justify-content: center;
+  }
+
+p{
+  padding: none;
+  margin: none;
+}
