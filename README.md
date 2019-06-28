@@ -9,3 +9,8 @@ Displays list of coins on the main page, with 10 per page. Clicking an item on t
 * React
 * CryptoCompare API
 * HighCharts JS
+
+
+#### Todo:
+
+* Make mobile friendly + implement CSS Grid
